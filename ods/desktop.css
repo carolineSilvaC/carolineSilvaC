@@ -1,0 +1,22 @@
+header{
+    margin-top:5%;
+}
+
+.container-img{
+    display: flex;
+    justify-content: center;
+    width: 100%;
+}
+
+footer{
+    display: flex;
+    justify-content: space-around;
+}
+
+#metas p:hover{
+    color: var(--salmao3);
+}
+
+p{
+    transition: all .2s ease;
+}
